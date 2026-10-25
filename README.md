@@ -8,7 +8,7 @@ Protótipo funcional do aplicativo **Ajuda Já**, feito como evolução do prot�
 
 ## Como rodar (3 passos)
 
-1. Baixe/clone esta pasta (`git clone ...` ou "Download ZIP" no GitHub).
+1. Baixe/clone esta pasta.
 2. Abra o terminal dentro da pasta e rode:
    - Windows: `python app.py`
    - Mac/Linux: `python3 app.py`
