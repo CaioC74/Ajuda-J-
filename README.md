@@ -21,7 +21,7 @@ Para parar: `Ctrl + C` no terminal.
 |---|---|
 | `python app.py --rede` | Deixa abrir também no **celular**, no mesmo Wi-Fi (o endereço aparece no terminal). Pode pedir permissão do firewall. |
 | `python app.py --porta 9000` | Usa outra porta (se a 8000 estiver ocupada, ele já tenta a próxima sozinho). |
-| `python app.py --sem-navegador` | Não abre o navegador automaticamente. |
+| `python app.py --sem-navegador`    | Não abre o navegador automaticamente. |
 
 > Dica: no computador, a tela aparece num "celular" no meio da janela. Para ver como no aparelho de verdade, use o celular com `--rede`
 > ou aperte F12 e escolha o modo celular do navegador.
