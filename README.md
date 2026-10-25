@@ -17,8 +17,7 @@ Protótipo funcional do aplicativo **Ajuda Já**, feito como evolução do prot�
 Para parar: `Ctrl + C` no terminal.
 
 ### Opções
-| Comando&nbsp;&nbsp;&nbsp; | O que faz |
-|---|---|
+| Comando&nbsp;&nbsp;&nbsp;;&nbsp;&nbsp;&nbsp | O que faz | |---|---|
 | `python app.py --rede` | Deixa abrir também no **celular**, no mesmo Wi-Fi (o endereço aparece no terminal). Pode pedir permissão do firewall. |
 | `python app.py --porta 9000` | Usa outra porta (se a 8000 estiver ocupada, ele já tenta a próxima sozinho). |
 | `python app.py --sem-navegador` | Não abre o navegador automaticamente. |
